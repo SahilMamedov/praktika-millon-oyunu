@@ -1,0 +1,16 @@
+C:\Users\Sahil\Desktop\praktika\praktika-4\praktika-4\praktika-4\bin\Debug\net5.0\praktika-4.exe
+C:\Users\Sahil\Desktop\praktika\praktika-4\praktika-4\praktika-4\bin\Debug\net5.0\praktika-4.deps.json
+C:\Users\Sahil\Desktop\praktika\praktika-4\praktika-4\praktika-4\bin\Debug\net5.0\praktika-4.runtimeconfig.json
+C:\Users\Sahil\Desktop\praktika\praktika-4\praktika-4\praktika-4\bin\Debug\net5.0\praktika-4.runtimeconfig.dev.json
+C:\Users\Sahil\Desktop\praktika\praktika-4\praktika-4\praktika-4\bin\Debug\net5.0\praktika-4.dll
+C:\Users\Sahil\Desktop\praktika\praktika-4\praktika-4\praktika-4\bin\Debug\net5.0\ref\praktika-4.dll
+C:\Users\Sahil\Desktop\praktika\praktika-4\praktika-4\praktika-4\bin\Debug\net5.0\praktika-4.pdb
+C:\Users\Sahil\Desktop\praktika\praktika-4\praktika-4\praktika-4\obj\Debug\net5.0\praktika-4.csproj.AssemblyReference.cache
+C:\Users\Sahil\Desktop\praktika\praktika-4\praktika-4\praktika-4\obj\Debug\net5.0\praktika-4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sahil\Desktop\praktika\praktika-4\praktika-4\praktika-4\obj\Debug\net5.0\praktika-4.AssemblyInfoInputs.cache
+C:\Users\Sahil\Desktop\praktika\praktika-4\praktika-4\praktika-4\obj\Debug\net5.0\praktika-4.AssemblyInfo.cs
+C:\Users\Sahil\Desktop\praktika\praktika-4\praktika-4\praktika-4\obj\Debug\net5.0\praktika-4.csproj.CoreCompileInputs.cache
+C:\Users\Sahil\Desktop\praktika\praktika-4\praktika-4\praktika-4\obj\Debug\net5.0\praktika-4.dll
+C:\Users\Sahil\Desktop\praktika\praktika-4\praktika-4\praktika-4\obj\Debug\net5.0\ref\praktika-4.dll
+C:\Users\Sahil\Desktop\praktika\praktika-4\praktika-4\praktika-4\obj\Debug\net5.0\praktika-4.pdb
+C:\Users\Sahil\Desktop\praktika\praktika-4\praktika-4\praktika-4\obj\Debug\net5.0\praktika-4.genruntimeconfig.cache
